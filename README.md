@@ -48,8 +48,14 @@ python LLM_Football_Commentary_AI
 
 ```
 ###Example Predictions
+
 "He smashes it into the net!" → GOAL
+
 "The ball is passed across the field." → PASS
+
 "Great dribble from midfield!" → DRIBBLE
+
 "Misses the chance to equalize." → MISS
+
 "That tackle might be a foul." → FOUL
+
