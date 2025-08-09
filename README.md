@@ -47,7 +47,7 @@ pip install -r requirements.txt
 python LLM_Football_Commentary_AI
 
 ```
-###Example Predictions
+### Example Predictions
 
 "He smashes it into the net!" → GOAL
 
