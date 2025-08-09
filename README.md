@@ -17,6 +17,12 @@ This project is designed to **demystify how LLMs work** — from tokenization to
 - 🔌 **Java-Ready API Integration** — inference results can be served to a Spring Boot backend
 - 🏗️ **Fully Reproducible in Google Colab** — train and run without local setup
 
+
+
+![be2ad47a-094b-4b8b-970a-d80052d9ac6f](https://github.com/user-attachments/assets/4b9c7251-5da1-406b-a8fd-008be4b52db4)
+
+
+
 ---
 
 ## 📦 Tech Stack
